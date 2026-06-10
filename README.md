@@ -2,10 +2,10 @@
 
 <!--
 -->
-- 🏫 I'm an Honors Computer Engineering student at Liberty University
+- 🏫 I have a Computer Engineering degree from Liberty University
 - 🤖 I have experience in Python, C, C++, Verilog, and Java
-- 🔭 I’m currently working on a ML-based apogee prediction methodology and a custom ARM microcontroller
-- 🚀 I am an Avionics Lead for [Liberty Rocketry](https://github.com/Liberty-Rocketry)
-- 🌱 I've used SolidWorks quite a bit through designing airbrakes and avionics bays
-- 💬 Ask me about my 3D printers
+- 🔭 I’m currently working on a custom STM32 flight computer/microcontroller
+- 🚀 I was a 2-time Avionics Lead for [Liberty Rocketry](https://github.com/Liberty-Rocketry)
+- 🌱 I have a solid amount of SolidWorks experience
+- 💬 Ask me about my 3D printers (rip my A1 mini)
 - 📫 How to reach me: [my LinkedIn](https://www.linkedin.com/in/price-drawdy/)
